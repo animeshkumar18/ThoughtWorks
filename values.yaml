@@ -38,18 +38,18 @@ image:
 ## User of the application
 ## ref: https://github.com/bitnami/bitnami-docker-mediawiki#environment-variables
 ##
-mediawikiUser: user
+mediawikiUser: thoughtworks
 
 ## Application password
 ## Defaults to a random 10-character alphanumeric string if not set
 ## ref: https://github.com/bitnami/bitnami-docker-mediawiki#environment-variables
 ##
-# mediawikiPassword:
+mediawikiPassword: thoughtworks@123
 
 ## Admin email
 ## ref: https://github.com/bitnami/bitnami-docker-mediawiki#environment-variables
 ##
-mediawikiEmail: user@example.com
+mediawikiEmail: animesh18kumar@gmail.com
 
 ## Name for the wiki
 ## ref: https://github.com/bitnami/bitnami-docker-mediawiki#environment-variables
